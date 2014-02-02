@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="BBclient">
+		<name >
+			bbclient
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			0.0.1
+		</version>
+		<vendor >
+			Vendor
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Vendor
+		</copyright>
+		<fileset Java="1.52" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				BBclient.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

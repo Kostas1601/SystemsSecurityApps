@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WM6Client", "WM6Client\WM6Client.csproj", "{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gps", "Gps", "{63967D1F-6798-4B05-9655-3B45A7888886}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\DegreesMinutesSeconds.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\DegreesMinutesSeconds.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\DeviceStateChangedEventArgs.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\DeviceStateChangedEventArgs.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GPS.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GPS.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Gps.sln = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Gps.sln
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GpsDeviceState.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GpsDeviceState.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GpsPosition.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\GpsPosition.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\LocationChangedEventArgs.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\LocationChangedEventArgs.cs
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Microsoft.WindowsMobile.Samples.Location.csproj = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Microsoft.WindowsMobile.Samples.Location.csproj
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\readme.txt = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\readme.txt
+		..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Utils.cs = ..\..\..\..\..\..\Program Files\Windows Mobile 6 SDK\Samples\Smartphone\CS\GPS\Utils.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6DF383-413A-4DF0-96B9-3DBD6FEA2352}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

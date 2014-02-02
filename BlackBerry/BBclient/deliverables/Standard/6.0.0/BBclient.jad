@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: BBclient
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 12117
+MIDlet-1: bbclient,img/icon.png,
+RIM-COD-Creation-Time: 1327227891
+MIDlet-Jar-URL: BBclient.jar
+RIM-COD-URL: BBclient.cod
+RIM-COD-SHA1: 84 88 85 11 1d 11 4b 44 8b b4 47 1f a4 9e 9d de cd d9 bd ed
+RIM-COD-Size: 5500
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0.1
+MIDlet-Name: BBclient
+MIDlet-Vendor: Vendor
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 1

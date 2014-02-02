@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, startingpoint!</string>
+    <string name="app_name">Android client(Safe Mode)</string>
+    <string name="text">Nothing Yet</string>
+    <string name="info"/>
+
+</resources>
